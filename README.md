@@ -4,18 +4,18 @@ Following can be found.
 
 -- Laravel --
 
-CSS Bootstrap
-JS Timer Library
-Blade Template
-Resource Controller
-CSRF-Token
-Guzzle
+CSS Bootstrap,
+JS Timer Library,
+Blade Template,
+Resource Controller,
+CSRF-Token,
+Guzzle,
 Error Handling
 
 
 -- Lumen --
 
-API
+API,
 Migration
 
 -- Demo --
